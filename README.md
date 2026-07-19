@@ -84,13 +84,3 @@ Response Generation
 
 
 
-Intent	Description
-Greeting	Welcome messages
-Courses	Available programs
-Admission Process	How to apply
-Documents	Required documents
-Eligibility	Admission requirements
-Fees	Fee structure information
-Hostel	Hostel availability
-Thanks	Thank-you responses
-Goodbye	Conversation ending
